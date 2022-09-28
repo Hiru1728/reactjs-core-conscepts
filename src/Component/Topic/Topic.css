@@ -1,0 +1,21 @@
+.topic {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+
+
+}
+
+.load-course {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+
+    background-color: antiquewhite;
+    padding: 30px 30px;
+}
+
+
+.information-section {
+    background-color: aqua;
+    padding: 20px;
+}

@@ -1,0 +1,30 @@
+.course {
+    height: 400px;
+    border: 2px solid gold;
+    background-color: aliceblue;
+    border-radius: 10px;
+    position: relative;
+}
+
+.course img {
+    width: 300px;
+    height: 150px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.btn-list {
+    width: 361px;
+    position: absolute;
+    border-radius: 0px 0px 8px 8px;
+    background-color: aquamarine;
+    border: none;
+    left: 0;
+    bottom: 0;
+
+}
+
+.btn-list:hover {
+    background-color: blueviolet;
+    color: white;
+}
